@@ -10,7 +10,7 @@ package pkg00git1;
  * @author EDUARDO A SILVESTRE
  */
 public class Main {
-
+    private long id;
     /**
      * @param args the command line arguments
      */
