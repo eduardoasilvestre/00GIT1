@@ -9,6 +9,6 @@ package pkg00git1;
  *
  * @author EDUARDO A SILVESTRE
  */
-public class Jasmine {
+public class Jasmnne {
     
 }
